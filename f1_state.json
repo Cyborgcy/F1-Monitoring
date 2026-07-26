@@ -1,0 +1,38 @@
+{
+  "F1 Store calendar": {
+    "fails": 0,
+    "keywords": [],
+    "links": [],
+    "queued": true
+  },
+  "Sepang event calendar": {
+    "fails": 0,
+    "keywords": [],
+    "links": []
+  },
+  "Sepang events listing": {
+    "fails": 0,
+    "keywords": [],
+    "links": [
+      "fim-minigp-malaysia-series-sic-ohvale-junior-championship-overview",
+      "malaysia-superbike-championship-overview",
+      "malaysia-touring-car-championship-2026-mtcc-race-result",
+      "malaysia-touring-car-championship-2026-overview",
+      "petronas-grand-prix-of-malaysia-2026-overview"
+    ]
+  },
+  "Sepang news archive": {
+    "fails": 0,
+    "keywords": [],
+    "links": []
+  },
+  "Sepang ticketing": {
+    "fails": 0,
+    "keywords": [],
+    "links": [
+      "circuit-tour-ticketing",
+      "sepang-1000km-endurance-race-2024-overview"
+    ]
+  },
+  "_heartbeat": "2026-07-27T00:39:30.910692"
+}
