@@ -34,7 +34,7 @@ jobs:
       - name: Run monitor
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python f1_monitor_v3.py --once
+        run: python main.py --once
 
       - name: Persist state
         run: |
