@@ -1,9 +1,12 @@
 {
   "F1 Store calendar": {
     "fails": 0,
-    "keywords": [],
+    "keywords": [
+      "\\bmalaysia\\w*\\b"
+    ],
     "links": [
       "f1-10851-azerbaijan",
+      "f1-3176-bahrain",
       "f1-3293-italy",
       "f1-3301-singapore",
       "f1-3312-abu-dhabi",
@@ -35,7 +38,7 @@
   },
   "Sepang news archive": {
     "fails": 0,
-    "hash": "b874047cb97849ca43494c8659f34349156c4fb3c0f33e61fc749a1b3c8fc944",
+    "hash": "9af71cb8139fb43f51c640d2ba2b8265668f8b9b13b3587c5d86e564145fc447",
     "keywords": [],
     "links": []
   },
@@ -47,5 +50,5 @@
       "sepang-1000km-endurance-race-2024-overview"
     ]
   },
-  "_heartbeat": "2026-07-27T00:39:30.910692"
+  "_heartbeat": "2026-07-27T15:08:40.622061"
 }
