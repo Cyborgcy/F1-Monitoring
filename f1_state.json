@@ -27,7 +27,7 @@
     "links": []
   },
   "Sepang events listing": {
-    "fails": 1,
+    "fails": 0,
     "keywords": [],
     "links": [
       "fim-minigp-malaysia-series-sic-ohvale-junior-championship-overview",
@@ -39,12 +39,12 @@
   },
   "Sepang news archive": {
     "fails": 0,
-    "hash": "ff3f5d5d7e585d08d9431643999b97a7870e4b8a3ef688d499c7b49ff56ea9f8",
+    "hash": "440bb69e2bc25d552390b4866171a570363b43ec1f879da01abfefaaea05d060",
     "keywords": [],
     "links": []
   },
   "Sepang ticketing": {
-    "fails": 1,
+    "fails": 0,
     "keywords": [],
     "links": [
       "circuit-tour-ticketing",
