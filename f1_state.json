@@ -1,9 +1,25 @@
 {
   "F1 Store calendar": {
     "fails": 0,
-    "keywords": [],
-    "links": [],
-    "queued": true
+    "keywords": [
+      "\\bmalaysia\\w*\\b",
+      "\\bsepang\\b"
+    ],
+    "links": [
+      "f1-10851-azerbaijan",
+      "f1-3293-italy",
+      "f1-3301-singapore",
+      "f1-3312-abu-dhabi",
+      "f1-3320-united-states",
+      "f1-3325-brazil",
+      "f1-42837-netherlands",
+      "f1-4861-mexico",
+      "f1-56257-qatar",
+      "f1-59007-las-vegas",
+      "f1-77449-madrid-spain-gp",
+      "f1-83069-bahrain-in-malaysia"
+    ],
+    "queued": false
   },
   "Sepang event calendar": {
     "fails": 0,
@@ -11,7 +27,7 @@
     "links": []
   },
   "Sepang events listing": {
-    "fails": 0,
+    "fails": 1,
     "keywords": [],
     "links": [
       "fim-minigp-malaysia-series-sic-ohvale-junior-championship-overview",
@@ -23,12 +39,12 @@
   },
   "Sepang news archive": {
     "fails": 0,
-    "hash": "2c6521ef3f6f7b3bb28eb1299d4c1f118374ae72ead79382b1fb06ea87f4d3bc",
+    "hash": "ff3f5d5d7e585d08d9431643999b97a7870e4b8a3ef688d499c7b49ff56ea9f8",
     "keywords": [],
     "links": []
   },
   "Sepang ticketing": {
-    "fails": 0,
+    "fails": 1,
     "keywords": [],
     "links": [
       "circuit-tour-ticketing",
