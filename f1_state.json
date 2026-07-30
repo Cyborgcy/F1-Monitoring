@@ -1,9 +1,25 @@
 {
   "F1 Store calendar": {
     "fails": 0,
-    "keywords": [],
-    "links": [],
-    "queued": true
+    "keywords": [
+      "\\bmalaysia\\w*\\b",
+      "\\bsepang\\b"
+    ],
+    "links": [
+      "f1-10851-azerbaijan",
+      "f1-3293-italy",
+      "f1-3301-singapore",
+      "f1-3312-abu-dhabi",
+      "f1-3320-united-states",
+      "f1-3325-brazil",
+      "f1-42837-netherlands",
+      "f1-4861-mexico",
+      "f1-56257-qatar",
+      "f1-59007-las-vegas",
+      "f1-77449-madrid-spain-gp",
+      "f1-83069-bahrain-in-malaysia"
+    ],
+    "queued": false
   },
   "Sepang event calendar": {
     "fails": 0,
@@ -23,7 +39,7 @@
   },
   "Sepang news archive": {
     "fails": 0,
-    "hash": "518b94860c55d2bfca0fe3cb357dc7eb3aabb5828a0a910b1d95eb8530ab01eb",
+    "hash": "2b3d81d9f9b98fd1128e3d7c4ab8116cfa6840d1a24911e4a14494dd15ee7fea",
     "keywords": [],
     "links": []
   },
@@ -35,5 +51,5 @@
       "sepang-1000km-endurance-race-2024-overview"
     ]
   },
-  "_heartbeat": "2026-07-29T20:03:59.566365"
+  "_heartbeat": "2026-07-30T09:06:57.692354"
 }
