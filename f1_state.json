@@ -1,25 +1,9 @@
 {
   "F1 Store calendar": {
     "fails": 0,
-    "keywords": [
-      "\\bmalaysia\\w*\\b",
-      "\\bsepang\\b"
-    ],
-    "links": [
-      "f1-10851-azerbaijan",
-      "f1-3293-italy",
-      "f1-3301-singapore",
-      "f1-3312-abu-dhabi",
-      "f1-3320-united-states",
-      "f1-3325-brazil",
-      "f1-42837-netherlands",
-      "f1-4861-mexico",
-      "f1-56257-qatar",
-      "f1-59007-las-vegas",
-      "f1-77449-madrid-spain-gp",
-      "f1-83069-bahrain-in-malaysia"
-    ],
-    "queued": false
+    "keywords": [],
+    "links": [],
+    "queued": true
   },
   "Sepang event calendar": {
     "fails": 0,
@@ -39,7 +23,7 @@
   },
   "Sepang news archive": {
     "fails": 0,
-    "hash": "f33ebbf7ead34721bbe9add1ee744f950eec0440d016d1afc57a6b310ffe0c72",
+    "hash": "09a4743d841c22a57d62c151675c9fd688d4ee494f46947cf3809c4ee9449c32",
     "keywords": [],
     "links": []
   },
